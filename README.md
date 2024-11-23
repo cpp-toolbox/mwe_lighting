@@ -1,1 +1,3 @@
-# mwe_lighting
+# mwe lighting
+
+a lighting demo in cpptbx
